@@ -27,7 +27,7 @@ In this lesson, you will learn how to:
 
 1. **Install Python**. Ensure that [Python](https://www.python.org/downloads/) is installed on your computer. You will use Python for many data science and machine learning tasks. Most computer systems already include a Python installation. There are useful [Python Coding Packs](https://code.visualstudio.com/learn/educators/installers?WT.mc_id=academic-77952-leestott) available as well, to ease the setup for some users.
 
-   Some usages of Python, however, require one version of the software, whereas others require a different version. For this reason, it's useful to work within a [virtual environment](https://docs.python.org/3/library/venv.html).
+   Some usages of Python, however, require one version of the software, whereas others require a different version. For this reason, it's useful to work within a [virtual environment](https://docs.python.mlorg/3/library/venv.html).
 
 2. **Install Visual Studio Code**. Make sure you have Visual Studio Code installed on your computer. Follow these instructions to [install Visual Studio Code](https://code.visualstudio.com/) for the basic installation. You are going to use Python in Visual Studio Code in this course, so you might want to brush up on how to [configure Visual Studio Code](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-77952-leestott) for Python development.
 
